@@ -251,6 +251,7 @@ toc:
   - path: /datasets/catalog/reddit_tifu
     title: reddit_tifu
   - path: /datasets/catalog/samsum
+    status: nightly
     title: samsum (manual)
   - path: /datasets/catalog/scientific_papers
     title: scientific_papers

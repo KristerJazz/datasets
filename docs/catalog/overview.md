@@ -162,6 +162,7 @@ for ex in tfds.as_numpy(ds):
 *   [`reddit`](reddit.md)
 *   [`reddit_tifu`](reddit_tifu.md)
 *   [`samsum`](samsum.md)
+    <span class="material-icons" title="Available only in the tfds-nightly package">nights_stay</span>
 *   [`scientific_papers`](scientific_papers.md)
 *   [`wikihow`](wikihow.md)
 *   [`xsum`](xsum.md)
